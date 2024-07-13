@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cirrus SR22
+* source:	https://sketchfab.com/3d-models/cirrus-sr22-cba602c99c524cd4b40e5c2e5f9c5b4f
+* author:	KOG_THORNS (https://sketchfab.com/ioai25312)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cirrus SR22" (https://sketchfab.com/3d-models/cirrus-sr22-cba602c99c524cd4b40e5c2e5f9c5b4f) by KOG_THORNS (https://sketchfab.com/ioai25312) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
